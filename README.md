@@ -91,6 +91,7 @@ npm run dev
 
 ## 🔑 API
 
+
 This project uses the OpenWeather API to retrieve current weather and forecast information.
 
 ## 📱 Responsive Design
